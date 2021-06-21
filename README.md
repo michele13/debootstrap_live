@@ -5,7 +5,7 @@ Generates a bootable ISO with current kernel and debootstrap base system
 
 <h4>Preparation</h4>
 
-sudo apt install wget make gawk gcc bc libelf-dev xorriso debootstrap curl
+sudo apt install wget make gawk gcc bc libssl-dev libelf-dev  xorriso debootstrap curl
 
 <h4>Download</h4>
 
